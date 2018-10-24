@@ -1,0 +1,22 @@
+{
+  "name": "leaflet.opacitycontrols",
+  "version": "1.0.0",
+  "description": "Simple Leaflet controls to adjust the opacity of a map",
+  "main": "lib/opacity/Control.Opacity.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizardtechblog/Leaflet.OpacityControls.git"
+  },
+  "author": "Jared Dominguez",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/lizardtechblog/Leaflet.OpacityControls/issues"
+  },
+  "homepage": "https://github.com/lizardtechblog/Leaflet.OpacityControls#readme"
+}
